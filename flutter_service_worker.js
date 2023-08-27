@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "cd443648cd8831aea42a35f8d2a97957",
-"assets/AssetManifest.json": "45a7fb0fe49c0579ed37469aa48fce71",
-"assets/assets/images/nassco-logo.png": "a230999f169dea704baa7a39eeeea2c5",
+const RESOURCES = {"assets/AssetManifest.bin": "049678893695da2723896fa536da5c36",
+"assets/AssetManifest.json": "c66dd15b802a5bc7a15a4a67df141beb",
 "assets/FontManifest.json": "535f15d5ee3029ad18f23a9a1ce25fdb",
 "assets/fonts/MaterialIcons-Regular.otf": "041e13875b1d0a835bd0a88c73bc9991",
+"assets/images/nassco-logo.png": "a230999f169dea704baa7a39eeeea2c5",
 "assets/NOTICES": "9c33572e789a067c7baf4abbdc51c6b8",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/dropdown_button2/assets/fonts/Roboto-Regular.ttf": "8a36205bd9b83e03af0591a004bc97f4",
@@ -59,10 +59,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "cd443648cd8831aea42a35f8d2a97957
 "icons/ms-icon-150x150.png": "a6331b179e6454328094b53ac4a68bb3",
 "icons/ms-icon-310x310.png": "50d6d99c1d1fbe670048fb3eefe46c4c",
 "icons/ms-icon-70x70.png": "ad14222902c3a368116455a0d49f2bfd",
-"index.html": "ddabc69d38b66cba5b023fe22d73d6c8",
-"/": "ddabc69d38b66cba5b023fe22d73d6c8",
-"main.dart.js": "b3f5e3e79e121d7bd8ea6aba3e32e14b",
-"main.dart.js_1.part.js": "13f93fb750f5c90bfe002bcc30b96f70",
+"index.html": "eebf695c784f3ad0736b63e176b17ff5",
+"/": "eebf695c784f3ad0736b63e176b17ff5",
+"main.dart.js": "c3634d74f48020a9aa690c731c109ac1",
+"main.dart.js_1.part.js": "415e7d67bba0cb06843208faaf874a28",
 "manifest.json": "dd4bc939fe2c7d1e91b2d5f06c558aac",
 "version.json": "3420613b5b7bbf6236fbe64d71a545fd"};
 // The application shell files that are downloaded before a service worker can
